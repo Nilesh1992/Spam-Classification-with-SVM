@@ -23,6 +23,11 @@ Traning             99.93
 Cross_validation    81.43
 Test                82.63
 
+Since this there is high imbalance in the class instancecs, acuraccy might not be the good measure, here are some other
+parameters
+Precsion: 99.80
+reacll: 82.37
+f1-score: 90.25
 This model can be further improved in great way!!! including more header features and more identifiactions or using sentence semantics features.
 
 
